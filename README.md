@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **standyoung/standyoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,19 +13,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Introduction
-Hi 👋!
+Hi there 👋
 
 ### 🏫
-Sangmyung University, Seoul, Republic of Korea, 2021
- - B.S. Student in Artificial Intelligence Mechatronics Engineering
+Sangmyung University, Seoul, Republic of Korea
+ - B.S. Student in Human-Centered Artificial Intelligence
 
 ### Interest
  - Human-AI Interaction
- - Recommend System
 
-### Qualification
- - AdSP
- - SQL Developer
+<!--### Qualification
+ - SQL Developer-->
 
 ### 📨 Email
 - 202115055@sangmyung.kr
@@ -42,6 +38,7 @@ Sangmyung University, Seoul, Republic of Korea, 2021
 </a>
 
 ## ⚒️ Tech Stack
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+![Python]<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+![Pytorch]<img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"/>
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white)
+![Java]<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>

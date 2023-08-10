@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 # :open_file_folder:Introduction
 Hi there 👋</br>
 
-## :mortar_board:Major
+## :pencil2:Major
 Sangmyung University, Seoul, Republic of Korea
  - B.S. Student in Human-Centered Artificial Intelligence</br></br>
 
 ## :boom:Interest
- - Human-AI Interaction</br></br>
+ - :computer:Human-AI Interaction</br></br>
 
 <!--## Qualification
  - SQL Developer-->
@@ -41,7 +41,7 @@ Sangmyung University, Seoul, Republic of Korea
 </a>
 </br></br>
 
-## 🌱 Studying Stacks (Once I've Used)
+## :seedling:Studying Stacks (Once I've Used)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=simpleicons&logo=Python&logoColor=white&link=#) ![java](https://img.shields.io/badge/Java-007396?style=simpleicons&logo=Java&logoColor=white&link=#) ![C++](https://img.shields.io/badge/C++-00599C?style=simpleicons&logo=C%2B%2B&logoColor=white&link=#) ![C](https://img.shields.io/badge/C-A8B9CC?style=simpleicons&logo=C&logoColor=white&link=#)<br/>
 ![Pytorch](https://img.shields.io/badge/Pytorch-EE4C2C?style=simpleicons&logo=Pytorch&logoColor=white&link=#)
 ![Tensorflow](https://img.shields.io/badge/Tensorflow-FF6F00?style=simpleicons&logo=Tensorflow&logoColor=white&link=#)<br/>

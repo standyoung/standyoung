@@ -30,11 +30,11 @@ Sangmyung University, Seoul, Republic of Korea
   
 ## 😄 SNS
 <a href="#/">
- <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=#">
+<img src="https://img.shields.io/badge/Tistroy Blog-000000?style=flat-square&logo=Tistory&logoColor=white&link=#">
 </a>
 
 <a href="#">
- <img src="https://img.shields.io/badge/Tistroy Blog-000000?style=flat-square&logo=Tistory&logoColor=white&link=#">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=#">
 </a>
 
 

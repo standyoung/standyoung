@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 # 🤔Introduction
 Hi there 👋
 
-## 🏫
+## 🏫Major
 Sangmyung University, Seoul, Republic of Korea
  - B.S. Student in Human-Centered Artificial Intelligence
 
@@ -25,10 +25,10 @@ Sangmyung University, Seoul, Republic of Korea
 <!--### Qualification
  - SQL Developer-->
 
-## 📨 Email
+## 📫 Email
 - 202115055@sangmyung.kr
   
-## 👨‍💻 SNS
+## 😄 SNS
 <a href="#/">
  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=#">
 </a>
@@ -43,7 +43,6 @@ Sangmyung University, Seoul, Republic of Korea
 ![Pytorch](https://img.shields.io/badge/Pytorch-EE4C2C?style=simpleicons&logo=Pytorch&logoColor=white)
 ![Tensorflow](https://img.shields.io/badge/Tensorflow-FF6F00?style=simpleicons&logo=Tensorflow&logoColor=white)<br/>
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=simpleicons&logo=Jupyter&logoColor=white)<br/>
-![Mysql](https://img.shields.io/badge/Mysql-4479A1?style=simpleicons&logo=Mysql&logoColor=white)
-![WaDB](https://img.shields.io/badge/Mysql-4479A1?style=simpleicons&logo=Mysql&logoColor=white)<br/>
+![Mysql](https://img.shields.io/badge/Mysql-4479A1?style=simpleicons&logo=Mysql&logoColor=white)<br/>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=simpleicons&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=simpleicons&logo=css3&logoColor=white)<br/>
 ![django](https://img.shields.io/badge/django-092E20?style=simpleicons&logo=django&logoColor=white)

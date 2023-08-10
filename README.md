@@ -12,36 +12,34 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Introduction
+# Introduction
 Hi there 👋
 
-### 🏫
+## 🏫
 Sangmyung University, Seoul, Republic of Korea
  - B.S. Student in Human-Centered Artificial Intelligence
 
-### Interest
+## Interest
  - Human-AI Interaction
 
 <!--### Qualification
  - SQL Developer-->
 
-### 📨 Email
+## 📨 Email
 - 202115055@sangmyung.kr
   
-### 👨‍💻 SNS
+## 👨‍💻 SNS
 <a href="#/">
  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=#">
 </a>
 
 <a href="#">
- <img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Tistory&logoColor=white&link=#">
+ <img src="https://img.shields.io/badge/Tistroy Blog-000000?style=flat-square&logo=Tistory&logoColor=white&link=#">
 </a>
 
 
-## ⚒️ Tech Stack
-<a>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
-<img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white">
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white">
-<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
-</a>
+## ⭐️ Studying Stacks
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white) ![java](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white)<br/>
+![Pytorch](https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=Pytorch&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)<br/>
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)<br/>
+![django](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white)

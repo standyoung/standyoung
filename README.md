@@ -12,14 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 🤔Introduction
+# :open_file_folder:Introduction
 Hi there 👋</br>
 
-## 🏫Major
+## :mortar_board:Major
 Sangmyung University, Seoul, Republic of Korea
  - B.S. Student in Human-Centered Artificial Intelligence</br></br>
 
-## ⚡Interest
+## :boom:Interest
  - Human-AI Interaction</br></br>
 
 <!--## Qualification
@@ -28,10 +28,10 @@ Sangmyung University, Seoul, Republic of Korea
  <!--## Activites
  - OUTTA 2023 부트캠프-->
 
-## :email: Email
+## :incoming_envelope:Email
 - 202115055@sangmyung.kr</br></br>
 
-## 😄 SNS
+## :satisfied:SNS
 <a href="#/">
 <img src="https://img.shields.io/badge/Tistroy Blog-000000?style=flat-square&logo=Tistory&logoColor=white&link=#">
 </a>

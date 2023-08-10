@@ -30,19 +30,15 @@ Sangmyung University, Seoul, Republic of Korea
   
 ### 👨‍💻 SNS
 <a href="#">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=#"/>
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=#">
 </a>
 
 <a href="#/">
-  <img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Tistory&logoColor=white&link=#"/>
+  <img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Tistory&logoColor=white&link=#">
 </a>
 
 ## ⚒️ Tech Stack
-<!--Python-->
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-<!--Pytorch-->
-<img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"/>
-<!--Jupyter-->
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/>
-<!--Java-->
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white">
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white">
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">

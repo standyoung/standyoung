@@ -13,14 +13,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 🤔Introduction
-Hi there 👋
+Hi there 👋</br>
 
 ## 🏫Major
 Sangmyung University, Seoul, Republic of Korea
- - B.S. Student in Human-Centered Artificial Intelligence
+ - B.S. Student in Human-Centered Artificial Intelligence</br></br>
 
 ## ⚡Interest
- - Human-AI Interaction
+ - Human-AI Interaction</br></br>
 
 <!--## Qualification
  - SQL Developer-->
@@ -28,9 +28,9 @@ Sangmyung University, Seoul, Republic of Korea
  <!--## Activites
  - OUTTA 2023 부트캠프-->
 
-## 📫 Email
-- 202115055@sangmyung.kr
-  
+## :email: Email
+- 202115055@sangmyung.kr</br></br>
+
 ## 😄 SNS
 <a href="#/">
 <img src="https://img.shields.io/badge/Tistroy Blog-000000?style=flat-square&logo=Tistory&logoColor=white&link=#">
@@ -39,6 +39,7 @@ Sangmyung University, Seoul, Republic of Korea
 <a href="#">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=#">
 </a>
+</br></br>
 
 ## 🌱 Studying Stacks (Once I've Used)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=simpleicons&logo=Python&logoColor=white&link=#) ![java](https://img.shields.io/badge/Java-007396?style=simpleicons&logo=Java&logoColor=white&link=#) ![C++](https://img.shields.io/badge/C++-00599C?style=simpleicons&logo=C%2B%2B&logoColor=white&link=#) ![C](https://img.shields.io/badge/C-A8B9CC?style=simpleicons&logo=C&logoColor=white&link=#)<br/>
@@ -48,3 +49,6 @@ Sangmyung University, Seoul, Republic of Korea
 ![Mysql](https://img.shields.io/badge/Mysql-4479A1?style=simpleicons&logo=Mysql&logoColor=white&link=#)<br/>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=simpleicons&logo=html5&logoColor=white&link=#) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=simpleicons&logo=css3&logoColor=white&link=#)<br/>
 ![django](https://img.shields.io/badge/django-092E20?style=simpleicons&logo=django&logoColor=white&link=#)
+
+<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=standyoung)](https://github.com/standyoung/github-readme-stats)-->
+

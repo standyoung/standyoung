@@ -12,14 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Introduction
+# 🤔Introduction
 Hi there 👋
 
 ## 🏫
 Sangmyung University, Seoul, Republic of Korea
  - B.S. Student in Human-Centered Artificial Intelligence
 
-## Interest
+## ⚡Interest
  - Human-AI Interaction
 
 <!--### Qualification
@@ -38,9 +38,10 @@ Sangmyung University, Seoul, Republic of Korea
 </a>
 
 
-## ⭐️ Studying Stacks
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white) ![java](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white)<br/>
-![Pytorch](https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=Pytorch&logoColor=white)<br/>
+## 🌱 Studying Stacks
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white) ![java](https://img.shields.io/badge/Java-3766AB?style=for-the-badge&logo=Java&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white)<br/>
+![Pytorch](https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=Pytorch&logoColor=white)
+![Tensorflow](https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=Tensorflow&logoColor=white)<br/>
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)<br/>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)<br/>
 ![django](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white)

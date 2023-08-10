@@ -28,8 +28,8 @@ Sangmyung University, Seoul, Republic of Korea
  <!--## Activites
  - OUTTA 2023 부트캠프-->
 
-## :incoming_envelope:Email
-- 202115055@sangmyung.kr</br></br>
+<!--## :incoming_envelope:Email
+- 202115055@sangmyung.kr</br></br>-->
 
 ## :satisfied:SNS
 <a href="#/">

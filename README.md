@@ -38,10 +38,12 @@ Sangmyung University, Seoul, Republic of Korea
 </a>
 
 
-## 🌱 Studying Stacks
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white) ![java](https://img.shields.io/badge/Java-3766AB?style=for-the-badge&logo=Java&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white)<br/>
-![Pytorch](https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=Pytorch&logoColor=white)
-![Tensorflow](https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=Tensorflow&logoColor=white)<br/>
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)<br/>
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)<br/>
-![django](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white)
+## 🌱 Studying Stacks (Once I've Used)
+![Python](https://img.shields.io/badge/Python-3776AB?style=simpleicons&logo=Python&logoColor=white) ![java](https://img.shields.io/badge/Java-007396?style=simpleicons&logo=Java&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=simpleicons&logo=C%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=simpleicons&logo=C&logoColor=white)<br/>
+![Pytorch](https://img.shields.io/badge/Pytorch-EE4C2C?style=simpleicons&logo=Pytorch&logoColor=white)
+![Tensorflow](https://img.shields.io/badge/Tensorflow-FF6F00?style=simpleicons&logo=Tensorflow&logoColor=white)<br/>
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=simpleicons&logo=Jupyter&logoColor=white)<br/>
+![Mysql](https://img.shields.io/badge/Mysql-4479A1?style=simpleicons&logo=Mysql&logoColor=white)
+![WaDB](https://img.shields.io/badge/Mysql-4479A1?style=simpleicons&logo=Mysql&logoColor=white)<br/>
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=simpleicons&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=simpleicons&logo=css3&logoColor=white)<br/>
+![django](https://img.shields.io/badge/django-092E20?style=simpleicons&logo=django&logoColor=white)

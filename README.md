@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# :open_file_folder:Introduction
+# 🤔Introduction
 Hi there 👋</br>
 
 ## :pencil2:Major

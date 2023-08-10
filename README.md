@@ -51,4 +51,5 @@ Sangmyung University, Seoul, Republic of Korea
 ![django](https://img.shields.io/badge/django-092E20?style=simpleicons&logo=django&logoColor=white&link=#)
 
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=standyoung)](https://github.com/standyoung/github-readme-stats)-->
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=youngsseo)](https://solved.ac/youngsseo)
 

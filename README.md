@@ -25,8 +25,8 @@ Sangmyung University, Seoul, Republic of Korea
 <!--## Qualification
  - SQL Developer-->
 
- <!--## Activites
- - OUTTA 2023 부트캠프-->
+## :runner:Activites
+ - OUTTA AI 부트캠프 딥러닝 2023.07~2023.08
 
 <!--## :incoming_envelope:Email
 - 202115055@sangmyung.kr</br></br>-->

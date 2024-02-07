@@ -17,16 +17,16 @@ Hi there,👋 I'm SeoYoung Joo!</br>
 
 ## :pencil2:Major
 Sangmyung University, Seoul, Republic of Korea
- - B.S. Student in Human-Centered Artificial Intelligence</br></br>
+ - B.S. Student in Human-Centered Artificial Intelligence</br>
 
 ## :boom:Interest
- - :computer:Human-AI Interaction</br></br>
+ - :computer:Human-AI Interaction</br>
 
 <!--## Qualification
  - SQL Developer-->
 
 ## :runner:Activites
- - OUTTA AI 부트캠프 딥러닝 2023.07 - 2023.08</br></br>
+ - OUTTA AI 부트캠프 딥러닝 2023.07 - 2023.08</br>
 <!--## :incoming_envelope:Email
 - 202115055@sangmyung.kr</br></br>-->
 
@@ -39,7 +39,7 @@ Sangmyung University, Seoul, Republic of Korea
 <a href="#">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=#">
 </a>
-</br></br>
+</br>
 
 ## :seedling:Studying Stacks (Once I've Used)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=simpleicons&logo=Python&logoColor=white&link=#) ![java](https://img.shields.io/badge/Java-007396?style=simpleicons&logo=Java&logoColor=white&link=#) ![C++](https://img.shields.io/badge/C++-00599C?style=simpleicons&logo=C%2B%2B&logoColor=white&link=#) ![C](https://img.shields.io/badge/C-A8B9CC?style=simpleicons&logo=C&logoColor=white&link=#)<br/>

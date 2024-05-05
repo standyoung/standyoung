@@ -49,6 +49,7 @@ Sangmyung University, Seoul, Republic of Korea
 ![Mysql](https://img.shields.io/badge/Mysql-4479A1?style=simpleicons&logo=Mysql&logoColor=white&link=#)<br/>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=simpleicons&logo=html5&logoColor=white&link=#) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=simpleicons&logo=css3&logoColor=white&link=#)<br/>
 ![django](https://img.shields.io/badge/django-092E20?style=simpleicons&logo=django&logoColor=white&link=#)
+![git](https://img.shields.io/badge/django-092E20?style=simpleicons&logo=git&logoColor=white&link=#)
 
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=standyoung)](https://github.com/standyoung/github-readme-stats)-->
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=youngsseo)](https://solved.ac/youngsseo)

@@ -44,10 +44,11 @@ Sangmyung University, Seoul, Republic of Korea
 
 ## :seedling:Studying Stacks (Once I've Used)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=simpleicons&logo=Python&logoColor=white&link=#) ![java](https://img.shields.io/badge/Java-007396?style=simpleicons&logo=Java&logoColor=white&link=#) ![C++](https://img.shields.io/badge/C++-00599C?style=simpleicons&logo=C%2B%2B&logoColor=white&link=#) ![C](https://img.shields.io/badge/C-A8B9CC?style=simpleicons&logo=C&logoColor=white&link=#)<br/>
-![Pytorch](https://img.shields.io/badge/Pytorch-EE4C2C?style=simpleicons&logo=Pytorch&logoColor=white&link=#)<br/>
+![Pytorch](https://img.shields.io/badge/Pytorch-EE4C2C?style=simpleicons&logo=Pytorch&logoColor=white&link=#) ![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=simpleicons&logo=TensorFlow&logoColor=white&link=#) ![Keras](https://img.shields.io/badge/Keras-D00000?style=simpleicons&logo=Keras&logoColor=white&link=#)<br/>
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=simpleicons&logo=Jupyter&logoColor=white&link=#)<br/>
 ![Mysql](https://img.shields.io/badge/Mysql-4479A1?style=simpleicons&logo=Mysql&logoColor=white&link=#)<br/>
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=simpleicons&logo=html5&logoColor=white&link=#) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=simpleicons&logo=css3&logoColor=white&link=#)<br/>
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=simpleicons&logo=html5&logoColor=white&link=#) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=simpleicons&logo=css3&logoColor=white&link=#)
+![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=simpleicons&logo=JavaScript&logoColor=white&link=#)<br/>
 ![django](https://img.shields.io/badge/django-092E20?style=simpleicons&logo=django&logoColor=white&link=#)<br/>
 ![git](https://img.shields.io/badge/Git-F05032?style=simpleicons&logo=Git&logoColor=white&link=#)
 

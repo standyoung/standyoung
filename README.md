@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:4169E1&height=180&section=header&text=🧬Seoyoung's%20Hub&fontColor=ffffff&fontSize=40&animation=fadeIn&fontAlignY=40" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:4169E1&height=180&%section=header&text=🧬Seoyoung's%20Hub&fontColor=ffffff&fontSize=40&animation=fadeIn&fontAlignY=40" width="100%"/>
 </div>
 
 Hi there,👋 I'm Seoyoung Ju!</br>
@@ -27,14 +27,13 @@ Hi there,👋 I'm Seoyoung Ju!</br>
 - Medical AI
 - Generative Models
 
-<!--## Qualification
- - SQL Developer-->
-
 ### ✨ Activities
-- OUTTA _2023.09 - present_
-
-<!--## :incoming_envelope:Email
-- 202115055@sangmyung.kr</br></br>-->
+| Activity | Description | Period |
+|:--------:|-------------|:------:|
+| **POSCO AI Big Data Academy (28th cohort)** | Completed a structured AI and big data training bootcamp. | <sub>Sep 2024 – Dec 2024</sub> |
+| **OUTTA** | Executive member of an AI education organization, organizing seminars and learning programs. | <sub>Sep 2023 – Present</sub> |
+| **INYRO** | Mentoring in a university student club focused on peer learning and academic support. | <sub>Sep 2023 – Aug 2025</sub> |
+| **OUTTA AI Boot Camp (2nd cohort)** | Participated in an intensive deep learning bootcamp hosted by OUTTA. | <sub>Jul 2023 – Aug 2023</sub> |
 
 ### 📬 Let's Connect
 <a href="mailto:ntju789@gmail.com">

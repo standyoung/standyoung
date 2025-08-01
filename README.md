@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 🤔Introduction
-Hi there,👋 I'm SeoYoung Joo!</br>
+Hi there,👋 I'm Seoyoung Ju!</br>
 
 ## :pencil2:Major
 Sangmyung University, Seoul, Republic of Korea

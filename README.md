@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=🌟%20Welcome%20to%20My%20Dev%20Space&fontColor=ffffff&fontSize=40&animation=fadeIn&fontAlignY=40&customColorList=AEC6CF,C3CFE8,D6E0F5" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=🌟%20Welcome%20to%20My%20Dev%20Space&fontColor=ffffff&fontSize=40&animation=fadeIn&fontAlignY=40&customColorList=4682B4,1E90FF,00BFFF,87CEEB" />
 </div>
 
 # 🤔Introduction

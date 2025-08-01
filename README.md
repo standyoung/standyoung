@@ -14,49 +14,74 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:4169E1&height=180&section=header&text=🌟%20Welcome%20to%20My%20Dev%20Space&fontColor=ffffff&fontSize=40&animation=fadeIn&fontAlignY=40" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:4169E1&height=180&section=header&text=🧬Seoyoung's%20Hub&fontColor=ffffff&fontSize=40&animation=fadeIn&fontAlignY=40" />
 </div>
 
-## 🤔Introdution
 Hi there,👋 I'm Seoyoung Ju!</br>
 
 ### 🎓 Education
 - Sangmyung University, Seoul, Republic of Korea
   - B.S. in Human-Centered Artificial Intelligence</br>
 
-### ⚡Interest
-- :computer:Human-AI Interaction</br>
+### ⚡ Interest
+- Medical AI
+- Generative Models
 
 <!--## Qualification
  - SQL Developer-->
 
-### ✨ Activites
-- OUTTA AI 부트캠프 딥러닝 2023.07 - 2023.08</br>
-- OUTTA 2023.09 - </br>
+### ✨ Activities
+- OUTTA _2023.09 - present_
+
 <!--## :incoming_envelope:Email
 - 202115055@sangmyung.kr</br></br>-->
 
-### 📬SNS
-<a href="#/">
-<img src="https://img.shields.io/badge/Tistroy Blog-000000?style=flat-square&logo=Tistory&logoColor=white&link=#">
+### 📬 Let's Connect
+<a href="mailto:ntju789@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 <a href="#">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=#">
+  <img src="https://img.shields.io/badge/[in]%20LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-</br>
 
-### 🌱Tech Stacks
-![Python](https://img.shields.io/badge/Python-3776AB?style=simpleicons&logo=Python&logoColor=white&link=#) ![java](https://img.shields.io/badge/Java-007396?style=simpleicons&logo=Java&logoColor=white&link=#) ![C++](https://img.shields.io/badge/C++-00599C?style=simpleicons&logo=C%2B%2B&logoColor=white&link=#) ![C](https://img.shields.io/badge/C-A8B9CC?style=simpleicons&logo=C&logoColor=white&link=#)<br/>
-![Pytorch](https://img.shields.io/badge/Pytorch-EE4C2C?style=simpleicons&logo=Pytorch&logoColor=white&link=#) ![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=simpleicons&logo=TensorFlow&logoColor=white&link=#) ![Keras](https://img.shields.io/badge/Keras-D00000?style=simpleicons&logo=Keras&logoColor=white&link=#)<br/>
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=simpleicons&logo=Jupyter&logoColor=white&link=#)<br/>
-![Mysql](https://img.shields.io/badge/Mysql-4479A1?style=simpleicons&logo=Mysql&logoColor=white&link=#)<br/>
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=simpleicons&logo=html5&logoColor=white&link=#) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=simpleicons&logo=css3&logoColor=white&link=#)
-![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=simpleicons&logo=JavaScript&logoColor=white&link=#)<br/>
-![django](https://img.shields.io/badge/django-092E20?style=simpleicons&logo=django&logoColor=white&link=#)<br/>
-![git](https://img.shields.io/badge/Git-F05032?style=simpleicons&logo=Git&logoColor=white&link=#)
+<a href="https://www.instagram.com/standup_zer0">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram">
+</a>
+
+<a href="https://standzer0.tistory.com/">
+  <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white" alt="Blog">
+</a>
+  
+### 🛠 Tech Stacks
+<!-- Programming Languages -->
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)
+
+<!-- ML/DL Frameworks -->
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white)
+
+<!-- Tools -->
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
+
+<!-- Other -->
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black)
 
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=standyoung)](https://github.com/standyoung/github-readme-stats)-->
-### Backjoon Online Judge score (Problem Solving)
+### Backjoon Online Judge score
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=youngsseo)](https://solved.ac/youngsseo)
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:4169E1&height=100&section=footer" width="100%" />
+</div>
 

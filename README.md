@@ -22,7 +22,7 @@ Hi there,👋 I'm Seoyoung Ju!</br>
 
 ## 🎓 Education
 - Sangmyung University, Seoul, Republic of Korea
-  - B.S. Student in Human-Centered Artificial Intelligence</br>
+  - B.S. in Human-Centered Artificial Intelligence</br>
 
 ## ⚡Interest
 - :computer:Human-AI Interaction</br>

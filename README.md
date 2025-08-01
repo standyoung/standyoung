@@ -12,6 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=🌟%20Welcome%20to%20My%20Dev%20Space&fontColor=ffffff&fontSize=40&animation=fadeIn&fontAlignY=40&customColorList=AEC6CF,C3CFE8,D6E0F5" />
+</div>
+
 # 🤔Introduction
 Hi there,👋 I'm Seoyoung Ju!</br>
 

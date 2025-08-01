@@ -17,26 +17,26 @@ Here are some ideas to get you started:
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:4169E1&height=180&section=header&text=🌟%20Welcome%20to%20My%20Dev%20Space&fontColor=ffffff&fontSize=40&animation=fadeIn&fontAlignY=40" />
 </div>
 
-# 🤔Introduction
+## 🤔Introdution
 Hi there,👋 I'm Seoyoung Ju!</br>
 
-## 🎓 Education
+### 🎓 Education
 - Sangmyung University, Seoul, Republic of Korea
   - B.S. in Human-Centered Artificial Intelligence</br>
 
-## ⚡Interest
+### ⚡Interest
 - :computer:Human-AI Interaction</br>
 
 <!--## Qualification
  - SQL Developer-->
 
-## ✨ Activites
+### ✨ Activites
 - OUTTA AI 부트캠프 딥러닝 2023.07 - 2023.08</br>
 - OUTTA 2023.09 - </br>
 <!--## :incoming_envelope:Email
 - 202115055@sangmyung.kr</br></br>-->
 
-## 📬SNS
+### 📬SNS
 <a href="#/">
 <img src="https://img.shields.io/badge/Tistroy Blog-000000?style=flat-square&logo=Tistory&logoColor=white&link=#">
 </a>
@@ -46,7 +46,7 @@ Hi there,👋 I'm Seoyoung Ju!</br>
 </a>
 </br>
 
-## 🌱Studying Stacks (Once I've Used)
+### 🌱Tech Stacks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=simpleicons&logo=Python&logoColor=white&link=#) ![java](https://img.shields.io/badge/Java-007396?style=simpleicons&logo=Java&logoColor=white&link=#) ![C++](https://img.shields.io/badge/C++-00599C?style=simpleicons&logo=C%2B%2B&logoColor=white&link=#) ![C](https://img.shields.io/badge/C-A8B9CC?style=simpleicons&logo=C&logoColor=white&link=#)<br/>
 ![Pytorch](https://img.shields.io/badge/Pytorch-EE4C2C?style=simpleicons&logo=Pytorch&logoColor=white&link=#) ![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=simpleicons&logo=TensorFlow&logoColor=white&link=#) ![Keras](https://img.shields.io/badge/Keras-D00000?style=simpleicons&logo=Keras&logoColor=white&link=#)<br/>
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=simpleicons&logo=Jupyter&logoColor=white&link=#)<br/>
@@ -57,6 +57,6 @@ Hi there,👋 I'm Seoyoung Ju!</br>
 ![git](https://img.shields.io/badge/Git-F05032?style=simpleicons&logo=Git&logoColor=white&link=#)
 
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=standyoung)](https://github.com/standyoung/github-readme-stats)-->
-## Backjoon Online Judge score (Problem Solving)
+### Backjoon Online Judge score (Problem Solving)
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=youngsseo)](https://solved.ac/youngsseo)
 

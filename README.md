@@ -31,7 +31,7 @@ Hi there,👋 I'm Seoyoung Ju!</br>
 
 ### 💻 Research Experiences
 - **MAILAB, Korea University**
-  - Advisor: Prof. Tae-Eui Kam
+  - Advisor: Prof. Taeeui Kam
 - **Medical Imaging Lab, Seoul National University**
   - Advisor: Prof. Namjoon Kim and Prof. Wonjae Lee
  

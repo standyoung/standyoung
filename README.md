@@ -43,10 +43,10 @@ Hi there,👋 I'm Seoyoung Ju!</br>
 
 
 ### 🧑‍🏫 Activities
-- **LG Aimers 7th** *(July. 2025 – Aug. 2025)*
+- **LG Aimers 7th** *(July 2025 – Aug 2025)*
 - **POSCO AI Big Data Academy 28th** *(Sep 2024 - Dec 2024)*
-- **Medical AI Center, Seoul National University Bundang Hospital Digital Healthcare AI Solution Development** *(Sep. 2024)*
-- **LG Aimers 5th** *(July. 2024 – Aug. 2024)*
+- **Medical AI Center, Seoul National University Bundang Hospital Digital Healthcare AI Solution Development** *(Sep 2024)*
+- **LG Aimers 5th** *(July 2024 – Aug 2024)*
 - **OUTTA (AI Education Org)** *(Sep 2023 - Present)*
 - **INYRO** *(Sep 2023 ~ Aug 2025)*
 - **OUTTA AI Boot Camp 2nd** *(Jul 2023 - Aug 2023)*

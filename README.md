@@ -26,8 +26,8 @@ Hi there,👋 I'm Seoyoung Ju!</br>
 ### ⚡ Interests
 - Computer Vision
 - Medical AI
+- Multimodal
 - Generative Models
-- Explainable and Reliable Generation
 
 ### 💻 Research Experiences
 - **MAILAB, Korea University**

@@ -24,7 +24,7 @@ Hi there,👋 I'm Seoyoung Ju!</br>
   - B.S. in Human-Centered Artificial Intelligence</br>
 
 ### ⚡ Interests
-- Computational Imaging
+- Computer Vision
 - Medical AI
 - Generative Models
 - Explainable and Reliable Generation

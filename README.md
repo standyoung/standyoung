@@ -38,7 +38,7 @@ Hi there,👋 I'm Seoyoung Ju!</br>
 ### 📚 Publications
 | Title | Conference / Journal | Year |
 |:------|:----------------------|:----:|
-| FOSCU: Feasibility of Synthetic MRI Generation via Duo-Diffusion Models for Enhancement of 3D U-Nets in Hepatic Segmentation <br/> *Youngung Han, Kyeonghun Kim, **Seoyoung Ju**, et al.* | IEEE APCCAS | 2025 |
+| FOSCU: Feasibility of Synthetic MRI Generation via Duo-Diffusion Models for Enhancement of 3D U-Nets in Hepatic Segmentation <br/> *Youngung Han, **Seoyoung Ju**, et al.* | IEEE APCCAS | 2025 |
 | ControlNet Guidance 기반 레이블 유도 3D Latent Diffusion Model 을 활용한 의료 볼륨 합성 | 대한전자공학회 하계학술대회 | 2025 |
 
 

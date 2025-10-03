@@ -21,7 +21,7 @@ Hi there,👋 I'm Seoyoung Ju!</br>
 
 ### 🎓 Education
 - Sangmyung University, Seoul, Republic of Korea
-  - B.S. in Human-Centered Artificial Intelligence</br>
+  - B.E. in Human-Centered Artificial Intelligence</br>
 
 ### ⚡ Interests
 - Computer Vision

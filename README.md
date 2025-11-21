@@ -71,7 +71,6 @@ Hi there,👋 I'm Seoyoung Ju!</br>
       <tr>
         <td>
           CIPHER: Counterfeit Image Pattern High-level Examination via Representation for GAN and Diffusion Discriminator Learning <br> 
-          <em>Youngung Han, <strong>Seoyoung Ju</strong>, et al.</em>
         </td>
         <td>IEEE/ICCE Asia</td>
         <td align="center">2025</td>
@@ -79,7 +78,6 @@ Hi there,👋 I'm Seoyoung Ju!</br>
       <tr>
         <td>
           FOSCU: Feasibility of Synthetic MRI Generation via Duo-Diffusion Models for Enhancement of 3D U-Nets in Hepatic Segmentation <br> 
-          <em>Youngung Han, <strong>Seoyoung Ju</strong>, et al.</em>
         </td>
         <td>IEEE APCCAS</td>
         <td align="center">2025</td>

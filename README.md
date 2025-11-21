@@ -35,13 +35,65 @@ Hi there,👋 I'm Seoyoung Ju!</br>
 - **Medical Imaging Lab, Seoul National University**
   - Advisor: Prof. Namjoon Kim and Prof. Wonjae Lee
  
-### 📚 Publications
-| Title | Conference / Journal | Year |
-|:------|:----------------------|:----:|
-| CIPHER: Counterfeit Image Pattern High-level Examination via Representation for GAN and Diffusion Discriminator Learning <br/> *Youngung Han, **Seoyoung Ju**, et al.* | IEEE/ICCE Asia | 2025 |
-| FOSCU: Feasibility of Synthetic MRI Generation via Duo-Diffusion Models for Enhancement of 3D U-Nets in Hepatic Segmentation <br/> *Youngung Han, **Seoyoung Ju**, et al.* | IEEE APCCAS | 2025 |
-| ControlNet Guidance 기반 레이블 유도 3D Latent Diffusion Model 을 활용한 의료 볼륨 합성 | 대한전자공학회 하계학술대회 | 2025 |
-
+<details>
+  <summary><h3>📚 Publications (Click to expand)</h3></summary>
+  
+  <table>
+    <thead>
+      <tr>
+        <th width="60%">Title</th>
+        <th width="30%">Conference / Journal</th>
+        <th width="10%">Year</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>
+          MAESIL: Masked Autoencoder for Enhanced Self-supervised Medical Image Learning <br> 
+        </td>
+        <td>ICEIC 2026</td>
+        <td align="center">2025</td>
+      </tr>
+      <tr>
+        <td>
+          COTTA: Contextual Optimization of Trajectory prediction Through transfer-learning Adaptation <br> 
+        </td>
+        <td>ICEIC 2026</td>
+        <td align="center">2025</td>
+      </tr>
+      <tr>
+        <td>
+          QCNet의 한국 도로 적응성 실험 및 최적 학습 전략 탐색 <br> 
+        </td>
+        <td>대한전자공학회 추계학술대회</td>
+        <td align="center">2025</td>
+      </tr>
+      <tr>
+        <td>
+          CIPHER: Counterfeit Image Pattern High-level Examination via Representation for GAN and Diffusion Discriminator Learning <br> 
+          <em>Youngung Han, <strong>Seoyoung Ju</strong>, et al.</em>
+        </td>
+        <td>IEEE/ICCE Asia</td>
+        <td align="center">2025</td>
+      </tr>
+      <tr>
+        <td>
+          FOSCU: Feasibility of Synthetic MRI Generation via Duo-Diffusion Models for Enhancement of 3D U-Nets in Hepatic Segmentation <br> 
+          <em>Youngung Han, <strong>Seoyoung Ju</strong>, et al.</em>
+        </td>
+        <td>IEEE APCCAS</td>
+        <td align="center">2025</td>
+      </tr>
+      <tr>
+        <td>
+          ControlNet Guidance 기반 레이블 유도 3D Latent Diffusion Model 을 활용한 의료 볼륨 합성
+        </td>
+        <td>대한전자공학회 하계학술대회</td>
+        <td align="center">2025</td>
+      </tr>
+    </tbody>
+  </table>
+</details>
 
 ### 🧑‍🏫 Activities
 - **LG Aimers 7th** *(July 2025 – Aug 2025)*
